@@ -112,6 +112,7 @@ p {
 }
 
 .buy-btn {
+    font-size: 15px;
     font-weight: 900;
     padding: 1rem 0;
     color: #fff;
@@ -127,6 +128,8 @@ p {
 
 .cancel-btn {
     color: var(--neutral-desaturated-blue);
+    font-size: 15px;
+    font-weight: 900;
 }
 
 .cancel-btn:hover {
